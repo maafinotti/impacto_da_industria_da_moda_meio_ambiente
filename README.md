@@ -17,7 +17,7 @@ Como tema, decidimos falar sobre os fatores da indústria da moda que impactam n
 
 Para a resolução do problema, criamos um **protótipo** de um aplicativo, *"Clothes Recycling"*, onde seria possível fazer trocas de roupas, assim, ajudando o meio ambiente.
 
-### :bookmark_tabs: Features
+### :bookmark_tabs: Etapas
 - [x] Pesquisar sobre o assunto
 - [x] Fazer o Dataset
 - [x] Fazer os gráficos
@@ -26,7 +26,6 @@ Para a resolução do problema, criamos um **protótipo** de um aplicativo, *"Cl
 - [x] Fazer o protótipo do aplicativo
 - [x] Montar apresentação de PowerPoint
 - [x] Apresentar
-
 ### :eyes: Status
 Concluído :white_check_mark:
 
