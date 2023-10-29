@@ -1,0 +1,51 @@
+marca,nacionalidade,gênero_alvo,idade_alvo,classe_alvo,faturamento(bilhoes_de_reais),relação_sustentabilidade,lojas_físicas_br,processos_trabalho_escravo,principais_países_fornecedores,reincide_contrato,canal_denuncia,grife_ou_fastfashion
+Zara,Espanha,Homens e mulheres,"Jovem, adulto",B,104,Não é boa o suficiente,49,Sim,Portugal,Sim,Sim,Fast Fashion
+C&A,Países baixos,Homens e mulheres,Jovem,C,"4,55",Boa,278,Não,Brasil,Sim,Sim,Fast Fashion
+Shein,China,Mulheres,Jovem,C,75,Muito ruim,1,Sim,China,Não,Não,Fast Fashion
+Fashion Nova,EUA,Mulheres,Jovem,C,"0,0022",Muito ruim,0,Sim,EUA,Não,Não,Fast Fashion
+Renner,Brasil,Homens e mulheres,"Jovem, adulto",C,"9,5",Boa,600,Sim,Brasil,Sim,Sim,Fast Fashion
+Forever 21,EUA,Mulheres,Jovem,B,"10,34",Muito ruim,19,Não,China,Não,Não,Fast Fashion
+H&M,Suécia,Mulheres,Jovem,B,S/I,É um começo,0,Não,China,Não,Não,Fast Fashion
+Riachuelo,Brasil,Mulheres,"Jovem, adulto",C,"1,99",Boa,335,Não,Brasil,Sim,Sim,Fast Fashion
+Urban Outfiters,EUA,Homens e mulheres,Jovem,B,"18,5",Não é boa o suficiente,0,Não,Inglaterra,S/I,S/I,Fast Fashion
+Miu Miu,EUA,Mulheres,Jovem,AA,S/I,Não é boa o suficiente,3,Não,Italia,Sim,Sim,Grife
+Prada,Itália,Homens e mulheres,Jovem,AA,"20,16",Não é boa o suficiente,3,Não,China,Sim,Não,Grife
+FARM,Brasil,Mulheres,Jovem,A,0.65,É um começo,72,Sim,Brasil,Sim,Não,Fast Fashion
+Chanel,França,Homens e mulheres,"Jovem, adulto",AA,55,Não é boa o suficiente,3,Sim,França,S/I,S/I,Grife
+YouCom,Brasil,Mulheres,Jovem,B,S/I,Boa,98,Sim,Brasil,Sim,Sim,Fast Fashion
+Gap,EUA,Homens e mulheres,Jovem,A,"81,9",É um começo,9,Sim,Australia,Sim,Não,Fast Fashion
+Nike,EUA,Homens e mulheres,Jovem,A,"54,35",É um começo,24,Sim,China,Não,Não,Fast Fashion
+Uniqlo,Japão,Homens e mulheres,"Jovem, adulto",B,"7,8",É um começo,0,Sim,China,Não,Não,Fast Fashion
+Mixed,Brasil,Mulheres,Jovem,B,S/I,S/I,14,Não,S/I,Não,Não,Fast Fashion
+Louis Vuitton,França,Mulheres,"Jovem, adulto",AA,"184,8",Não é boa o suficiente,10,Sim,França,Não,Não,Grife
+Bo.Bô,Brasil,Mulheres,Jovem,A,"1,1",Ótima,40,Sim,Spain,Sim,Não,Fast Fashion
+Dudalina,Brasil,Homens e mulheres,Adulto,A,1.1,Ótima,61,Sim,Brasil,Sim,Não,Fast Fashion
+Richards,Brasil,Homens e mulheres,"Infantil, jovem, adulto",A,S/I,S/I,49,Não,Londres,Sim,Sim,Fast Fashion
+Hering,Brasil,Homens e mulheres,"Infantil, jovem, adulto",B,0.65,É um começo,778,Não,Brasil,Sim,Sim,Fast Fashion
+Animale,Brasil,Mulheres,Adulto,A,0.65,Boa,70,Sim,França,Sim,Não,Fast Fashion
+Calvin Klein,EUA,Homens e mulheres,"Jovem, adulto",A,"48,495",É um começo,42,Não,China,Sim,Sim,Fast Fashion
+Handbook,Brasil,Mulheres,Jovem,B,S/I,S/I,30,Sim,S/I,Não,Não,Fast Fashion
+John John,Brasil,Homens e mulheres,Jovem,A,"1,1",Ótima,55,Sim,Brasil,Sim,Não,Fast Fashion
+Le lis blanc,Brasil,Mulheres,"Infantil, jovem, adulto",A,"1,1",Ótima,95,Sim,Brasil,Sim,Não,Fast Fashion
+Marisa,Brasil,Mulheres,"Infantil, jovem, adulto",C,0,É um começo,400,Sim,Brasil,Sim,Sim,Fast Fashion
+Reebok,Inglaterra,Homens e mulheres,"Jovem, adulto",B,"7,95",É um começo,1,Não,Ásia,Sim,Sim,Fast Fashion
+Rosa chá,Brasil,Mulheres,"Jovem, adulto",A,"1,1",Ótima,8,Sim,Brasil,Sim,Não,Fast Fashion
+Scene,Brasil,Mulheres,Adulto,B,S/I,Boa,35,Não,S/I,Sim,Sim,Fast Fashion
+Zig Zig Zaa,Brasil,Homens e mulheres,Infantil,B,S/I,Boa,30,Não,Brasil,Sim,Sim,Fast Fashion
+Maria Filó,Brasil,Mulheres,"Jovem, adulto",A,"0,65",Ótima,32,Não,Brasil,Sim,Não,Fast Fashion
+Adidas,Alemanha,Homens e mulheres,Jovem,A,127,É um começo,25,Não,China,Sim,Sim,Fast Fashion
+Sorella Organics,Australia,Homens e mulheres,Adulto,B,S/I,Ótima,0,Não,Australia,Sim,Sim,Fast Fashion
+"Neu Nomads",Alemanha,Mulheres,Adulto,A,S/I,Ótima,0,Não,Lituania,Sim,Sim,Fast Fashion
+Dorsu,Camboja,Homens e mulheres,Adulto,A,S/I,Ótima,0,Não,Cambodia,Sim,Sim,Fast Fashion
+Dedicated,Suécia,Homens e mulheres,"Infantil, jovem, adulto",A,S/I,Ótima,0,Não,Suiça,Sim,Sim,Fast Fashion
+Citizen Wolf,Australia,Homens e mulheres,Adulto,A,S/I,Ótima,0,Não,Austrália,Sim,Sim,Fast Fashion
+Diesel,Itália,Homens e mulheres,"Infantil, jovem, adulto",A,5,Muito ruim,17,Não,Itália,Não,Não,Fast Fashion
+Lacoste,França,Homens e mulheres,"Infantil, jovem, adulto",A,"15,3",Não é boa o suficiente,18,Sim,França,Não,Não,Fast Fashion
+Ralph Lauren,Brasil,Homens e mulheres,"Infantil, jovem, adulto",AA,S/I,É um começo,1,Não,China,S/I,S/I,Grife
+Reserva,Brasil,Homens e mulheres,"Infantil, jovem, adulto",A,0.15,Não é boa o suficiente,78,Não,Brasil,Sim,Sim,Fast Fashion
+Victoria's Secret,EUA,Mulheres,"Jovem, adulto",B,"4,222",Não é boa o suficiente,0,Sim,Vietnã,Não,Não,Fast Fashion
+Pernambucanas,Brasil,Homens e mulheres,"Infantil, jovem, adulto",D,5,Boa,468,Sim,Brasil,Não,Não,Fast Fashion
+Versace,Itália,Homens e mulheres,"Infantil, jovem, adulto",AA,"4,11",Não é boa o suficiente,0,Não,Itália,Não,Não,Grife
+Levi's,EUA,Homens e mulheres,"Infantil, jovem, adulto",A,22,Boa,84,Não,Índia,Não,Não,Fast Fashion
+Burberry,Inglaterra,Homens e mulheres,"Infantil, jovem, adulto",AA,45,Boa,6,Não,Inglaterra,Sim,Não,Grife
+Gucci,Itália,Homens e mulheres,"Jovem, adulto",AA,"52,75",Boa,6,Não,Itália,Sim,Não,Grife
