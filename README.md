@@ -26,9 +26,6 @@ Para a resolução do problema, criamos um **protótipo** de um aplicativo, *"Cl
 - [x] Fazer o protótipo do aplicativo
 - [x] Montar apresentação de PowerPoint
 - [x] Apresentar
+
 ### :eyes: Status
 Concluído :white_check_mark:
-
-### :bust_in_silhouette: Autora
-<p>
-  <img src='https://i.ibb.co/R9HC4fh/84-C6-D5-F0-BFE7-4-BA3-907-A-A20072498060.png' width="100px;" alt=""/>
