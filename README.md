@@ -9,6 +9,10 @@
 <p align='center'> :school: Faculdade :school: </p>
  
   </br>
+
+### :dancers: Grupo
+- Manoela Ferreira Finotti
+- [Melissa Assis da Silva](https://github.com/melassiss)
   
 ### :books: Sobre
 Este projeto foi realizado por um grupo de alunas da PUC-SP, para a entrega do projeto final do primeiro semestre de **Ciência de Dados e Inteliência Artificial**.
