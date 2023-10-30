@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/maafinotti/Impacto-da-Indutsria-da-Moda-no-Meio-Ambiente/blob/main/Clothes%20Recycling.png">
+  <img src="https://github.com/maafinotti/impacto_da_industria_da_moda_no_meio_ambiente/blob/main/Clothes%20Recycling.png">
 </p>
 
 <h1 align="center">Impacto da Indústria da Moda no Meio Ambiente</h1>
