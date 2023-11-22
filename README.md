@@ -11,6 +11,7 @@
   </br>
 
 ### :dancers: Grupo
+- [Ana Beatriz Farah Alves](https://github.com/biaafarah)
 - Manoela Ferreira Finotti
 - Maria Eduarda Bonel
 - [Melissa Assis da Silva](https://github.com/melassiss)
